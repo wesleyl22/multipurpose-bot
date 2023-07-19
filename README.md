@@ -1,1 +1,3 @@
-# multipurpose-bot
+# Multipurpose Bot
+
+### By wesleyl22
